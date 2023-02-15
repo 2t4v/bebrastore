@@ -18,13 +18,13 @@
 				<key>PayloadType</key>
 				<string>com.apple.webClip.managed</string>
 				<key>PayloadUUID</key>
-				<string>0bf15ce9-9bec-4b82-b20d-a776013566e7</string>
+				<string>d83428cc-7caa-4c1b-962e-958f848e00c0</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>Precomposed</key>
 				<true />
 				<key>URL</key>
-				<string>https://2t4v.github.io/bebrastore/S</string>
+				<string>https://2t4v.github.io/bebrastore/</string>
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
@@ -36,7 +36,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>6dd849aa-8ed8-4747-9de0-f69811bd00af</string>
+		<string>c7d9115c-3a10-4e80-b540-c784b2cabfbd</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
